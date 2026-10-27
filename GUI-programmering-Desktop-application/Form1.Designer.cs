@@ -50,7 +50,7 @@ partial class Form1
         // 
         // editButton
         // 
-        editButton.Location = new System.Drawing.Point(748, 30);
+        editButton.Location = new System.Drawing.Point(734, 30);
         editButton.Name = "editButton";
         editButton.Size = new System.Drawing.Size(118, 40);
         editButton.TabIndex = 0;
@@ -67,7 +67,7 @@ partial class Form1
         //
         // detailsButton
         //
-        detailsButton.Location = new System.Drawing.Point(868, 30);
+        detailsButton.Location = new System.Drawing.Point(860, 30);
         detailsButton.Name = "detailsButton";
         detailsButton.Size = new System.Drawing.Size(108, 40);
         detailsButton.TabIndex = 1;
@@ -84,7 +84,7 @@ partial class Form1
         // 
         // addButton
         // 
-        addButton.Location = new System.Drawing.Point(634, 30);
+        addButton.Location = new System.Drawing.Point(620, 30);
         addButton.Name = "addButton";
         addButton.Size = new System.Drawing.Size(106, 40);
         addButton.TabIndex = 3;

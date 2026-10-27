@@ -1,0 +1,38 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+[Tt]est[Rr]esults/
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Rider / IntelliJ
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+.idea/**/shelf/
+.idea/**/httpRequests/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+
+# Visual Studio and user-specific settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs and coverage reports
+*.log
+coverage/
+coverage.*.json
